@@ -28,11 +28,11 @@ If you would like to help improve the project, please feel free to send over a p
 * Atomic commits make it easier to review changes. If you can separate changes out in this form, it'll save us time when trying to land.
 * Please review the version of the book [online](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) before requesting a change. It is updated more frequently than the physical version of the book but we do bring changes back in every few months.
 
-#### Building the project
+## Building the project
 
-Install dependencies : `npm install`
-Build the project: `grunt`
-Preview: `grunt serve`
+### Install dependencies : `npm install`
+### Build the project: `npx grunt`
+### Preview: `grunt serve --force`
 
 #### Additional formats
 
